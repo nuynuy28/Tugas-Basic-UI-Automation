@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Cypress outputs
+cypress/videos/
+cypress/screenshots/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+
+# Env files
+.env
