@@ -7,5 +7,9 @@ module.exports = defineConfig({
     },
     supportFile:"cypress/support/e2e.js",
     defaultCommandTimeout: 30000,
+    screenshotsFolder: 'cypress/screenshots',
+    screenshotOnRunFailure: true,
   },
+
+  
 });
